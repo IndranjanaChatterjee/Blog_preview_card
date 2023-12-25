@@ -1,11 +1,12 @@
 import React from "react";
+import cardImg from "../assets/images/illustration-article.svg";
 
 export default function Card() {
   return (
     <div className="bg-[#ffffff] w-[17rem] rounded-2xl flex flex-row justify-center items-center border-[1.3px] border-solid border-[#121212] shadow-[10px_10px_rgb(18,18,18)] m-[1rem]">
       <div className="inside bg-[#ffffff] p-[1.1rem] rounded-xl border-[1.3px] border-solid border-[#121212] font-['Figtree']">
         <img
-          src="./src/assets/images/illustration-article.svg"
+          src={cardImg}
           alt="article"
           className="rounded-lg mb-[1rem]"
         />
