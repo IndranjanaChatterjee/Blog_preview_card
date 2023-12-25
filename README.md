@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Blog_preview_card)
+- Live Site URL: [live site URL](https://blog-preview-card-pi.vercel.app/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Blog preview card solution](https://github.com/IndranjanaChatterjee/Blog_preview_card)
 - Frontend Mentor - [@IndranjanaChatterjee](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
 
 
