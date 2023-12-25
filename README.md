@@ -23,6 +23,7 @@ Users should be able to:
 - Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Blog_preview_card)
 - Live Site URL: [live site URL](https://blog-preview-card-pi.vercel.app/)
 
+
 ## My process
 
 ### Built with
