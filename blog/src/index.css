@@ -1,5 +1,16 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+ 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:#f4d04e ;
+    
+}
