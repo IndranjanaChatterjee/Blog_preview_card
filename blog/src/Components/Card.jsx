@@ -1,5 +1,6 @@
 import React from "react";
 import cardImg from "../assets/images/illustration-article.svg";
+import avaImg from "../assets/images/image-avatar.webp";
 
 export default function Card() {
   return (
@@ -19,7 +20,7 @@ export default function Card() {
         </p>
         <span className="avatar flex flex-row justify-start gap-[0.5rem]">
           {" "}
-          <img src="./src/assets/images/image-avatar.webp" alt="avatar" className="w-[1.5rem]" />
+          <img src={avaImg} alt="avatar" className="w-[1.5rem]" />
           <p className="av text-sm font-bold">Greg Hooper</p>
         </span>
       </div>
